@@ -1,4 +1,4 @@
-# Chat GPT Account Creator Bot - For BlackHatProTools.info
+# ChatGPT Account Creator Bot OpenAI - For BlackHatProTools.info
 
 Account creator for ChatGPT - OpenAI - Supports Proxies
 
