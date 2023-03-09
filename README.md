@@ -1,6 +1,13 @@
 # ChatGPT Account Creator Bot OpenAI - For BlackHatProTools.info
 
-For the Phone Verified & Captcha bypass, please see at the bottom of this file!
+
+For the Premium version of this bot, which allows you to select the number of accounts your want to create per cycle, the phone verified accounts PVA module and the Captcha bypass module, you can check here :
+
+https://www.blackhatprotools.info/showthread.php?136089-GET-ChatGPT-OpenAI-Account-Creator-Bot-Supports-Proxies-No-Crack-Needed
+
+
+=============================================================================
+
 
 Account creator for ChatGPT - OpenAI - Supports Proxies
 
@@ -25,10 +32,6 @@ The proxies parameter is then passed to the requests.post() method to use the pr
 Note that this code assumes that each line in proxies.txt contains only one proxy in the format proxy:port. If the file contains additional information, you may need to modify the code to handle it appropriately. Additionally, keep in mind that not all proxies may work, and some may be slow or unreliable.
 
 
-
-For the Premium version of this bot, which allows you to select the number of accounts your want to create per cycle, the phone verified accounts PVA module and the Captcha bypass module, you can check here :
-
-https://www.blackhatprotools.info/showthread.php?136089-GET-ChatGPT-OpenAI-Account-Creator-Bot-Supports-Proxies-No-Crack-Needed
 
 
 Enjoy :)
