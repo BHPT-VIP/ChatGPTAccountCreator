@@ -1,4 +1,5 @@
-# ChatGPTAccountCreator
+# Chat GPT Account Creator Bot - For BlackHatProTools.info
+
 Account creator for ChatGPT - OpenAI - Supports Proxies
 
 This is a python script bot, that creates automatically accounts for Chatgpt.
